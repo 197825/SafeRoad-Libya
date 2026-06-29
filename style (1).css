@@ -123,8 +123,8 @@ input, textarea, select { font-family: inherit; direction: rtl; }
 
 .nav-links a:hover,
 .nav-links a.active {
-  color: var(--green-main);
-  background: var(--green-subtle);
+  color: var(--blue-main);
+  background: var(--blue-subtle);
 }
 
 .nav-links a.active::after {
