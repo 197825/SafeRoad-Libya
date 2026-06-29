@@ -182,7 +182,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       from: 'بنغازي', to: 'البيضاء',
-      distance: '220 كم', time: '2.5 ساعة',
+      distance: '220 كم', time: '5 دقائق',
       status: 'danger', statusText: 'حادث',
       via: 'الطريق الجبلي'
     },
